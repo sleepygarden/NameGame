@@ -22,14 +22,14 @@
 		E0F22EA51520DA8600DF277F /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		E0F22EA71520DA8600DF277F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		E0F22EA91520DA8600DF277F /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		E0F22EAD1520DA8600DF277F /* NameGame-Info.plist */ = {isa = PBXFileReference; path = "NameGame-Info.plist"; sourceTree = "<group>"; };
+		E0F22EAD1520DA8600DF277F /* NameGame-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "NameGame-Info.plist"; sourceTree = "<group>"; };
 		E0F22EAF1520DA8600DF277F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		E0F22EB11520DA8600DF277F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		E0F22EB31520DA8600DF277F /* NameGame-Prefix.pch */ = {isa = PBXFileReference; path = "NameGame-Prefix.pch"; sourceTree = "<group>"; };
-		E0F22EB41520DA8600DF277F /* ballAppDelegate.h */ = {isa = PBXFileReference; path = ballAppDelegate.h; sourceTree = "<group>"; };
+		E0F22EB31520DA8600DF277F /* NameGame-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NameGame-Prefix.pch"; sourceTree = "<group>"; };
+		E0F22EB41520DA8600DF277F /* ballAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ballAppDelegate.h; sourceTree = "<group>"; };
 		E0F22EB51520DA8600DF277F /* ballAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ballAppDelegate.m; sourceTree = "<group>"; };
 		E0F22EB81520DA8600DF277F /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
-		E0F22EBA1520DA8600DF277F /* ballViewController.h */ = {isa = PBXFileReference; path = ballViewController.h; sourceTree = "<group>"; };
+		E0F22EBA1520DA8600DF277F /* ballViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ballViewController.h; sourceTree = "<group>"; };
 		E0F22EBB1520DA8600DF277F /* ballViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ballViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 

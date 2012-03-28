@@ -8,6 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ballViewController : UIViewController
+@interface ballViewController : UIViewController<UITextFieldDelegate>
+
+@property (weak, nonatomic) IBOutlet UITextField *inputField;
+@property (weak, nonatomic) IBOutlet UILabel *displayLabel;
+
 
 @end
