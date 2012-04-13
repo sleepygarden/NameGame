@@ -12,6 +12,7 @@
 
 @property (weak, nonatomic) IBOutlet UITextField *inputField;
 @property (weak, nonatomic) IBOutlet UILabel *displayLabel;
-
+@property NSInteger guessMe;
+@property NSInteger myGuess;
 
 @end
